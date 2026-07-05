@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Browser Research Assitant",
+  "version": "1.0",
+  "description": "AI -Powered research Assitant",
+  "permissions":["activeTab","storage","sidePanel","scripting"],
+  "action":{
+    "default_title":"AI-Powered Research Assistant"
+    
+  },
+  "side_panel":{
+    "default_path":"sidepanel.html"
+  },
+  "background":{
+    "service_worker":"background.js"
+  },
+  "host_permissions":[
+    "https://localhost:8080/*",
+    "<all_urls>"
+  ],
+  
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+  
+}

@@ -1,0 +1,4 @@
+gemini:
+    api:
+        url: https://generativelanguage.googleapis.com/v1beta/interactions
+        key: "AQ.Ab8RN6JCexpxDPKhB4iP2WMz5qhk4wkTCfmZJ_ul4Iu22i73lg"
