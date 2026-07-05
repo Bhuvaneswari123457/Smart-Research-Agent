@@ -13,9 +13,8 @@ A powerful browser extension designed to supercharge your research workflow. Bui
 *   **Smart Text Summarization:** Highlight any text on the web and get instant, AI-powered summaries.
 *   **Research Notebook:** Save snippets, URLs, and notes directly into structured categories.
 *   **Seamless Sync:** Powered by a fast Java backend to ensure your data is securely stored and accessible.
-*   **Dark/Light Mode:** Responsive UI designed to fit into your browsing experience without distraction.
-*   **Export Capabilities:** Export your research notes into Markdown, PDF, or JSON formats.
-
+*   **Light Mode:** Responsive UI designed to fit into your browsing experience without distraction.
+*   
 ---
 
 ## 🛠️ Tech Stack
