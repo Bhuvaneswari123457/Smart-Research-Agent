@@ -45,3 +45,8 @@ A powerful browser extension designed to supercharge your research workflow. Bui
    git clone 
    cd demo
 
+
+<img width="452" height="870" alt="image" src="https://github.com/user-attachments/assets/06e933f8-879c-43d6-985c-0b18fb7b9bdc" />
+<img width="1535" height="851" alt="image" src="https://github.com/user-attachments/assets/83b5a457-6da7-4541-86d3-6317487d0a10" />
+
+
