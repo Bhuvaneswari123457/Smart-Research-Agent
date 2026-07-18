@@ -49,6 +49,10 @@ A powerful browser extension designed to supercharge your research workflow. Bui
 <img width="1535" height="851" alt="image" src="https://github.com/user-attachments/assets/83b5a457-6da7-4541-86d3-6317487d0a10" />
 
 
+USER FLOW DIAGRAM
+
 <img width="449" height="1203" alt="-webexe" src="https://github.com/user-attachments/assets/6b1571b7-0f8a-40b2-88b7-204d99c130ad" />
+
+SAVE THE RESULT IN THE NOTES TAB AFTER THIS FLOW 
 
 
